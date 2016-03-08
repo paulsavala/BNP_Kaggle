@@ -4,5 +4,6 @@ These notebooks are my exploration of the Kaggle BNP Paribas Cardif Claims Kaggl
 - Pearson r coefficient to clean extraneous rows
 - My own code to check for reordering of categorical variables
 - PCA
+- Bayesian optimization of XGBoost parameters using BayesBoost
 
 In this challenge I'm not super focused on getting a high ranking, but just on learning as much as I can.
