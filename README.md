@@ -2,7 +2,7 @@ These notebooks are my exploration of the Kaggle BNP Paribas Cardif Claims Kaggl
 
 - Gradient boosted random forests
 - Pearson r coefficient to clean extraneous rows
-- My own code to check for reordering of categorical variables
+- My own statistical test to check for reordering of categorical variables
 - PCA
 - Bayesian optimization of XGBoost parameters using BayesBoost
 
